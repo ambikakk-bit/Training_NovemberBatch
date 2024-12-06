@@ -6,5 +6,9 @@ This is Line5
 This is Line6
 This is Line7
 This is Line8
+<<<<<<< HEAD
 This is Line10
 This is Line11
+=======
+This is line9
+>>>>>>> 1e17b34 (DEV B Changes)
